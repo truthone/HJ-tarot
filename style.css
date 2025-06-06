@@ -489,6 +489,11 @@ body {
         padding: 2rem 1rem;
     }
 
+    .curriculum-timeline {
+        
+        flex-direction: column;
+    }
+
     .timeline-item:hover {
         transform: translateY(-5px);
     }
